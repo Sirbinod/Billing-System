@@ -1,0 +1,19 @@
+===========================================================================
+			  *NEWA ELECTRONIC STORE* 
+		   Ghattekulo-29,Anamnagar,Kathmandu 
+			 Phone:9867141715 
+
+2018-01-11 08:55:15.155083
+
+Name of Customer: jjd
+						 Unique Code: skthaa
+---------------------------------------------------------------------------
+Product	unit Price	Quantity	Price	Discount	Total Price
+---------------------------------------------------------------------------
+laptop	600		2		1200	10%		1080.0
+===========================================================================
+						   Net Total:   1080.0
+
+
+		  Thankyou for purchasing from us
+			 Have a nice Day

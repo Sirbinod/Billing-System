@@ -1,0 +1,19 @@
+===========================================================================
+			  *NEWA ELECTRONIC STORE* 
+		   Ghattekulo-29,Anamnagar,Kathmandu 
+			 Phone:9867141715 
+
+2018-01-11 19:10:07.382108
+
+Name of Customer: djds
+						 Unique Code: etfrjz
+---------------------------------------------------------------------------
+Product	unit Price	Quantity	Price	Discount	Total Price
+---------------------------------------------------------------------------
+phone	400		2		800	10%		720.0
+===========================================================================
+						   Net Total:   720.0
+
+
+		  Thankyou for purchasing from us
+			 Have a nice Day

@@ -1,0 +1,19 @@
+===========================================================================
+			  *NEWA ELECTRONIC STORE* 
+		   Ghattekulo-29,Anamnagar,Kathmandu 
+			 Phone:9867141715 
+
+2018-01-12 10:57:10.270046
+
+Name of Customer: sarbin
+						 Unique Code: aurspx
+---------------------------------------------------------------------------
+Product	unit Price	Quantity	Price	Discount	Total Price
+---------------------------------------------------------------------------
+laptop	600		2		1200	10%		1080.0
+===========================================================================
+						   Net Total:   1080.0
+
+
+		  Thankyou for purchasing from us
+			 Have a nice Day

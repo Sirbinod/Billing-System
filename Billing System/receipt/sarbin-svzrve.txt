@@ -1,0 +1,20 @@
+===========================================================================
+			  *NEWA ELECTRONIC STORE* 
+		   Ghattekulo-29,Anamnagar,Kathmandu 
+			 Phone:9867141715 
+
+2018-01-12 10:24:02.001726
+
+Name of Customer: sarbin
+						 Unique Code: svzrve
+---------------------------------------------------------------------------
+Product	unit Price	Quantity	Price	Discount	Total Price
+---------------------------------------------------------------------------
+laptop	600		2		1200	10%		1080.0
+phone	400		3		1200	10%		1080.0
+===========================================================================
+						   Net Total:   2160.0
+
+
+		  Thankyou for purchasing from us
+			 Have a nice Day
